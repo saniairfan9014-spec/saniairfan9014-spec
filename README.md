@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sania irfan</h1>
+<h1 align="center">Hi 👋, I'm Sania Irfan</h1>
 <h3 align="center">📱 Mobile Application Developer | Flutter & Supabase</h3>
 
 <p align="center">
