@@ -1,23 +1,67 @@
-## Hello, I'm Muhammad Imran
+<h1 align="center">Hi 👋, I'm Sania irfan</h1>
+<h3 align="center">📱 Mobile Application Developer | Flutter & Supabase</h3>
 
-I have a passion for creating web applications. I enjoy building things that I love.
+<p align="center">
+  I love building modern, scalable mobile applications and turning ideas into real products.
+</p>
 
-My tools are ReactJs, NextJs, NodeJs, JS & TS, Svelte, Shadcn, Tailwind and more. Other than programming, I enjoy space science, anime, night walks, music, and cricket
+---
 
-Here are a couple of projects I've developed:
+### 🚀 About Me
+- 📱 Flutter Developer with focus on clean UI & performance  
+- ⚡ Backend integration using Supabase  
+- 🧠 Always learning new technologies  
+- 💡 Passionate about creating useful and beautiful apps  
 
-## Projects
+---
 
-1. [**imransite.com**](https://www.imransite.com): Your Next-Gen MERN, Next.js, Full-Stack Developer for Scalable Web Apps.
-   
-2. [**bardui.com**](https://www.bardui.com): The largest Tailwind CSS community. It receives 2k+ monthly page views.
-   
-4. [**zilink.co**](https://www.zilink.co): Create Shorten links built in Svelte, SvelteKit, PWA.
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" />
+  <img width="15"/>
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="40" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+</div>
 
-5. [**tiksave.site**](https://www.tiksave.site): Free, fast, and unlimited. Download TikTok videos without watermark, in HD quality.
+---
 
-Beyond personal projects, I have also built and published NPM packages, developed Google Chrome extensions, and delivered multiple MERN, MonoRepo, full-stack applications.
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saniairfan9014-spec&show_icons=true&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saniairfan9014-spec&layout=compact&theme=dracula&hide_border=true" height="160"/>
+</div>
 
-I’ve worked on many client projects, which you can explore in my [portfolio](https://www.imransite.com/work#client-projects) and on [Upwork](https://www.upwork.com/freelancers/imranbaitham). I focus on performance, clean UI, accessibility, and scalable architecture.
+---
 
-My goal is to continuously build innovative, impactful, and high-quality software that I’m proud of.
+### 🌙 Interests
+- 🚀 Space Science  
+- 🎧 Music  
+- 🌌 Night Walks  
+- 🏏 Cricket  
+- 🎬 Anime  
+
+---
+
+### 📫 Connect With Me
+<div align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+✨ *“Building apps with passion and purpose.”*
