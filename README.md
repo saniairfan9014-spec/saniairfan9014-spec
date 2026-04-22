@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 📱 Flutter Developer with focus on clean UI & performance  
 - ⚡ Backend integration using Supabase  
-- 🧠 Always learning new Feactures  
+- 🧠 Always learning new technologies  
 - 💡 Passionate about creating useful and beautiful apps  
 
 ---
