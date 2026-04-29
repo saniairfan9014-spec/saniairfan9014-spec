@@ -39,7 +39,7 @@
 ### 🌙 Interests
 - 🚀 Space Science  
 - 🎧 Music  
-- Reading Books 
+- Reading storys
 - 🏏 Cricket  
 - 🎬 Anime  
 
