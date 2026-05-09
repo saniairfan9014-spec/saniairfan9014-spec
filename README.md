@@ -34,7 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saniairfan9014-spec&layout=compact&theme=dracula&hide_border=true" height="160"/>
 </div>
 
----
 
 ### 🌙 Interests
 - 🚀 Space Science  
@@ -43,7 +42,6 @@
 - 🏏 Cricket  
 - 🎬 Anime  
 
----
 
 ### 📫 Connect With Me
 <div align="center">
